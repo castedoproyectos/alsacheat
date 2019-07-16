@@ -696,3 +696,51 @@ console.error: BroadcastService:
 1563261983837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 1563261985349	Marionette	INFO	Listening on port 57395
 1563261985440	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://www.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+1563262282042	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.T3oYOQCZgGDb"
+1563262282838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563262282839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563262282839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563262284497	Marionette	INFO	Listening on port 58654
+1563262284597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript error: https://www.alsa.es/combo/?browserId=firefox&minifierType=&languageId=es_ES&b=7010&t=1561357269359&/o/frontend-js-web/aui/base-core/base-core-min.js&/o/frontend-js-web/aui/base-observable/base-observable-min.js&/o/frontend-js-web/aui/querystring-stringify/querystring-stringify-min.js&/o/frontend-js-web/aui/aui-widget-cssclass/aui-widget-cssclass-min.js&/o/frontend-js-web/aui/aui-widget-toggle/aui-widget-toggle-min.js&/o/frontend-js-web/aui/base-build/base-build-min.js&/o/frontend-js-web/aui/aui-io-request/aui-io-request-min.js&/o/frontend-js-web/liferay/portlet_url.js, line 12: TypeError: g.Url is not a constructor
+JavaScript warning: https://www.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://www.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+1563262407432	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.9uOllU6yYlYf"
+1563262407861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563262407862	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563262407862	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563262409488	Marionette	INFO	Listening on port 59249
+1563262409579	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+

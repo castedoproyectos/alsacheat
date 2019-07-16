@@ -59,14 +59,8 @@ dia_vuelta.click()
 buscar_mejor_precio = driver.find_element_by_id("journeySearchFormButtonjs")
 buscar_mejor_precio.click()
 
-try:
-    pop_up = driver.find_element_by_id("ab_overlay")
-    pop_up_style = pop_up.get_attribute("style")
-    a = 2
-except:
-    print("No se encuentra el pop up de carga")
 
-time.sleep(10)
+time.sleep(15)
 hora_salida_origen = '09:15'
 horas_salida_origen_web = driver.find_elements_by_xpath("//span[@data-test-id='departureTime']")
 pos = 0
@@ -83,7 +77,8 @@ except:
     driver.execute_script("window.scrollTo(0, "+str(bloque_precio_origen.rect['y'])+")")
     bloque_precio_origen.click()
 
-time.sleep(10)
+
+time.sleep(15)
 hora_salida_destino = '04:15'
 horas_salida_destino_web = driver.find_elements_by_xpath("//span[@data-test-id='departureTime']")
 pos = 0
@@ -91,8 +86,7 @@ for it in range(len(horas_salida_origen_web)):
     if horas_salida_destino_web[it].text == hora_salida_destino:
         pos = it
         break
-ab_overlay
-time.sleep(5)
+
 xpath_bloque_precio_destino = "(//div[@class='bg-info price-travel'])["+str(pos+1)+"]"
 bloque_precio_destino = driver.find_element_by_xpath(xpath_bloque_precio_destino)
 #TODO Mirar donde se queda la posicion
