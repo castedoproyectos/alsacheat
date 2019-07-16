@@ -1,5 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 import time
 
@@ -79,7 +81,7 @@ except:
 
 
 time.sleep(15)
-hora_salida_destino = '04:15'
+hora_salida_destino = '00:30'
 horas_salida_destino_web = driver.find_elements_by_xpath("//span[@data-test-id='departureTime']")
 pos = 0
 for it in range(len(horas_salida_origen_web)):
@@ -104,15 +106,20 @@ cambiar_asientos = driver.find_element_by_id("btn-collapse-bus")
 cambiar_asientos.click()
 
 time.sleep(2)
-asiento = driver.find_element_by_xpath("//span[@data-ng-bind='seat.seatNumber' and text()='41']")
-asiento.click()
+asiento_ida = driver.find_element_by_xpath("//div[./span[@data-ng-bind='seat.seatNumber' and text()='8']]")
+asiento_ida.click()
 
-pestania_vuelta = driver.find_element_by_class_name("vuelta information-services-vuelta ng-scope")
+time.sleep(2)
+pestania_vuelta = driver.find_element_by_xpath("//div[@class='vuelta information-services-vuelta ng-scope']")
 pestania_vuelta.click()
 
-asiento = driver.find_element_by_xpath("//span[@data-ng-bind='seat.seatNumber' and text()='53']")
-asiento.click()
+time.sleep(2)
+asiento_vuelta = driver.find_element_by_xpath("(//div[./span[@data-ng-bind='seat.seatNumber' and text()='23']])[2]")
 
+#    driver.execute_script("window.scrollTo(200, 400)")
+#    asiento_vuelta.click()
+
+asiento_vuelta.click()
 
 continuar = driver.find_element_by_xpath("(//span[text()='Continuar'])[1]")
 continuar.click()

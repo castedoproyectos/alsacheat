@@ -744,3 +744,743 @@ console.error: BroadcastService:
   Stack:
     remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
 
+JavaScript warning: https://www.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254878000, line 214: unreachable code after return statement
+1563268848612	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.B2MM6DFOTOyG"
+1563268849044	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563268849045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563268849045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563268850494	Marionette	INFO	Listening on port 55827
+1563268850575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19216: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+1563269282117	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.6pcJMet6Bjdz"
+1563269282600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563269282601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563269282601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563269284108	Marionette	INFO	Listening on port 57678
+1563269284159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254850000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript error: https://estaticos.alsa.es/o/frontend-js-web/barebone.jsp?browserId=firefox&themeId=Alsamaininterior_WAR_Alsamaintheme&colorSchemeId=01&minifierType=js&minifierBundleId=javascript.barebone.files&languageId=es_ES&b=7010&t=1561359456050, line 767: TypeError: d is undefined
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254850000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19216: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254850000, line 214: unreachable code after return statement
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+1563269544118	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.3UB69c2fqCsa"
+1563269544625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563269544625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563269544625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563269546168	Marionette	INFO	Listening on port 58858
+1563269546188	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19216: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+1563269670434	Marionette	INFO	Stopped listening on port 57395
+1563269671721	Marionette	INFO	Stopped listening on port 58654
+1563269672822	Marionette	INFO	Stopped listening on port 59249
+1563269673948	Marionette	INFO	Stopped listening on port 55827
+1563269675132	Marionette	INFO	Stopped listening on port 57678
+1563269676487	Marionette	INFO	Stopped listening on port 58858
+1563269820171	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.kqD23fz9syqX"
+1563269820771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563269820771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563269820771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563269822459	Marionette	INFO	Listening on port 60125
+1563269822528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254850000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254850000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19216: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254850000, line 214: unreachable code after return statement
+1563269964772	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.91cCCNC89reY"
+1563269965226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563269965226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563269965226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563269966858	Marionette	INFO	Listening on port 60812
+1563269966915	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254878000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254878000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19216: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254878000, line 214: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1563270241556	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.JNRbKfZ7Zgir"
+1563270242022	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563270242022	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563270242022	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563270243455	Marionette	INFO	Listening on port 62032
+1563270243505	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254878000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254878000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19216: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254878000, line 214: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1563270364183	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.ryXxiqFApguS"
+1563270364620	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563270364620	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563270364620	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563270366129	Marionette	INFO	Listening on port 62626
+1563270366144	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254878000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254878000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19216: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254878000, line 214: unreachable code after return statement
+1563270469682	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.Vfnqs9u06yUa"
+1563270470198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563270470199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563270470199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563270471679	Marionette	INFO	Listening on port 63153
+1563270471734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19188: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1563270617741	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.JhnrPW8KEIJp"
+1563270618395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563270618396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563270618396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563270620296	Marionette	INFO	Listening on port 63847
+1563270620341	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19216: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+1563270718978	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.bZ3ClnV0fbbu"
+1563270719507	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563270719508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563270719508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563270720999	Marionette	INFO	Listening on port 64359
+1563270721044	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19188: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1563270894748	Marionette	INFO	Stopped listening on port 64359
+1563270897862	Marionette	INFO	Stopped listening on port 63153
+1563270899032	Marionette	INFO	Stopped listening on port 62626
+1563270900118	Marionette	INFO	Stopped listening on port 62032
+1563270901036	Marionette	INFO	Stopped listening on port 60812
+1563270902372	Marionette	INFO	Stopped listening on port 63847
+1563270903527	Marionette	INFO	Stopped listening on port 60125
+1563270906265	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.MHrCWCoBegob"
+1563270906752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563270906752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563270906753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563270908237	Marionette	INFO	Listening on port 65201
+1563270908324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254878000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254878000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19216: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254878000, line 214: unreachable code after return statement
+1563271040954	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.pIxuazyVvLfy"
+1563271041586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563271041586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563271041587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563271043194	Marionette	INFO	Listening on port 49461
+1563271043240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19216: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1563271257341	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.KlHfatRouL1A"
+1563271258155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563271258156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563271258156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563271259923	Marionette	INFO	Listening on port 50450
+1563271260023	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19216: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+1563271456026	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.xj57I2ifM5S7"
+1563271456464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563271456464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563271456464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563271457988	Marionette	INFO	Listening on port 51347
+1563271458074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254878000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254878000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19216: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254878000, line 214: unreachable code after return statement
+1563271711717	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.QLkcAwSESYdw"
+1563271712202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563271712203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563271712204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563271713879	Marionette	INFO	Listening on port 52502
+1563271713978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19188: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+1563271820700	Marionette	INFO	Stopped listening on port 65201
+1563271821759	Marionette	INFO	Stopped listening on port 49461
+1563271822762	Marionette	INFO	Stopped listening on port 50450
+1563271823907	Marionette	INFO	Stopped listening on port 51347
+1563271825021	Marionette	INFO	Stopped listening on port 52502
+1563271829405	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.EUzHrw1EAgSB"
+1563271829876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563271829877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563271829877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563271831425	Marionette	INFO	Listening on port 53058
+1563271831454	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19216: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+1563272257254	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.XGwHcj2XlmE2"
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+1563272257995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563272257996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563272257996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563272260265	Marionette	INFO	Listening on port 54936
+1563272260327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254878000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254878000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19216: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1563272291429	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.HRthdG0EdZRC"
+1563272291883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563272291883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563272291884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563272293395	Marionette	INFO	Listening on port 55166
+1563272293477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19188: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+1563272428902	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.NHFdWGzvkOUx"
+1563272429314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563272429314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563272429314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563272430794	Marionette	INFO	Listening on port 55823
+1563272430851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19188: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+1563272476581	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.RzEnhnnRYXAC"
+1563272477047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563272477048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563272477048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563272478578	Marionette	INFO	Listening on port 56099
+1563272478589	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19216: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+1563272638710	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.Qgrogw0Frtc3"
+1563272639233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563272639234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563272639234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563272640749	Marionette	INFO	Listening on port 56852
+1563272640815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254878000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254878000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19216: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254858000, line 248: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254878000, line 214: unreachable code after return statement
+1563272732568	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.IiJz26C2BIm1"
+1563272733071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563272733071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563272733071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563272734543	Marionette	INFO	Listening on port 57329
+1563272734616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19188: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+1563272941946	Marionette	INFO	Stopped listening on port 53058
+1563272945055	Marionette	INFO	Stopped listening on port 54936
+1563272946741	Marionette	INFO	Stopped listening on port 56099
+1563272952766	Marionette	INFO	Stopped listening on port 55823
+1563272953906	Marionette	INFO	Stopped listening on port 56852
+1563272955203	Marionette	INFO	Stopped listening on port 57329
+1563272956375	Marionette	INFO	Stopped listening on port 55166
+1563273715759	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.ui7Wez2FkcPf"
+1563273716584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563273716585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563273716585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563273718600	Marionette	INFO	Listening on port 61431
+1563273718622	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254850000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254850000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19216: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254850000, line 214: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1563273846438	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.SOj8E1m3bBVg"
+1563273846902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563273846902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563273846902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563273848437	Marionette	INFO	Listening on port 62064
+1563273848497	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254850000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254850000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19216: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254850000, line 214: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+1563274176403	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.PyMaLBlGnItH"
+1563274177015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563274177016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563274177016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563274179181	Marionette	INFO	Listening on port 63484
+1563274179257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254850000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254850000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19216: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254850000, line 214: unreachable code after return statement
+1563274326526	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.90qMIAVA4ZsB"
+1563274327183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563274327183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563274327184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563274328721	Marionette	INFO	Listening on port 64213
+1563274328784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19188: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+1563274415392	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.bQWDtg6XD1Lk"
+1563274416090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563274416091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563274416091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563274418041	Marionette	INFO	Listening on port 64680
+1563274418057	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254850000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript error: https://estaticos.alsa.es/o/frontend-js-web/barebone.jsp?browserId=firefox&themeId=Alsamaininterior_WAR_Alsamaintheme&colorSchemeId=01&minifierType=js&minifierBundleId=javascript.barebone.files&languageId=es_ES&b=7010&t=1561359456050, line 767: TypeError: d is undefined
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254850000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19216: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254850000, line 214: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1563274502857	Marionette	INFO	Stopped listening on port 61431
+1563274503938	Marionette	INFO	Stopped listening on port 62064
+1563274505009	Marionette	INFO	Stopped listening on port 63484
+1563274508074	Marionette	INFO	Stopped listening on port 64213
+[Parent 18568, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1563274510222	Marionette	INFO	Stopped listening on port 64680
+1563274651052	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.MkwzVRoa6urt"
+1563274651545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563274651546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563274651546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563274653238	Marionette	INFO	Listening on port 49398
+1563274653311	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19216: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254072000, line 248: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254092000, line 214: unreachable code after return statement
+1563274866470	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.KlQckM7Ds6ev"
+1563274867049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563274867049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563274867050	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563274868590	Marionette	INFO	Listening on port 50412
+1563274868616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254850000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript error: https://estaticos.alsa.es/o/frontend-js-web/barebone.jsp?browserId=firefox&themeId=Alsamaininterior_WAR_Alsamaintheme&colorSchemeId=01&minifierType=js&minifierBundleId=javascript.barebone.files&languageId=es_ES&b=7010&t=1561359456050, line 767: TypeError: d is undefined
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254850000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19216: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254832000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254850000, line 214: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1563275148775	Marionette	INFO	Stopped listening on port 49398
+1563275149941	Marionette	INFO	Stopped listening on port 50412
+1563275154443	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y5/pspk7r8n59l5lk6w67x34p9h0000gp/T/rust_mozprofile.lh1h2mGt2xbU"
+1563275154888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563275154888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563275154888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563275156411	Marionette	INFO	Listening on port 51763
+1563275156506	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
+JavaScript warning: https://www.alsa.es/area-privada, line 19188: unreachable code after return statement
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-main-theme/js/sag/sag-alsa-journeySearch-init.js?t=1563254114000, line 248: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563235208152%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://estaticos.alsa.es/o/Alsa-portlet/journeysearch/js/main.js?t=1563254134000, line 214: unreachable code after return statement
