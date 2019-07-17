@@ -1,0 +1,16 @@
+{
+    "usuario": "12423439N",
+    "password": "carlitos5",
+    "datos ida": {
+        "origen": "Madrid",
+        "destino": "Valladolid",
+        "dia": 18,
+        "hora_salida": "09:15",
+        "plazas": [ 41, 42, 43]},
+    "datos vuelta": {
+        "origen": "Valladolid",
+        "destino": "Madrid",
+        "dia": 20,
+        "hora_salida": "00:30",
+        "plazas": [ 18, 22, 21]}
+}
